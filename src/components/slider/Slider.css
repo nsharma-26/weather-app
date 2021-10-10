@@ -1,0 +1,17 @@
+.bar-chart text{
+    font-size: 12px !important;
+}
+.splide__pagination{
+    display:none !important;
+}
+.css-1xez8po-MuiPaper-root-MuiCard-root{
+    /* margin:40px; */
+    background-color: whitesmoke !important;
+
+}
+.slick-next:before, .slick-prev:before{
+    color:#000;
+}
+.css-46bh2p-MuiCardContent-root{
+    cursor: pointer;
+}
